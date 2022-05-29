@@ -8,7 +8,11 @@
 
 [2. Tabela HTML com PHP](./Modulo01/exercicio/exercicio2.php)
 
-[3. If elseif Else](./Modulo01/exercicio/exercicio2.php)
+[3. If ElseIf Else](./Modulo01/exercicio/exercicio3.php)
+
+[4. Repetição - While](./Modulo01/exercicio/exercicio4.php)
+
+[5. Repetição - For](./Modulo01/exercicio/exercicio5.php)
 
 ## Autor
 
