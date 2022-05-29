@@ -8,6 +8,8 @@
 
 [2. Tabela HTML com PHP](./Modulo01/exercicio/exercicio2.php)
 
+[3. If elseif Else](./Modulo01/exercicio/exercicio2.php)
+
 ## Autor
 
 [@Elivandro 🔥😀🚀](https://www.github.com/Elivandro/)
