@@ -1,6 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
     <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Exercicio 2 - tabela HTML com PHP</title>
+        <meta name="author" content="Elivandro Silva"/>
+        <meta name="keywords" content="php, tabela, produtos, html"/>
+        <meta name="description" content="Tabela de produto simples com html e php"/>
+
         <style>
             body{
                 margin: 0px;
