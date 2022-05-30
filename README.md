@@ -14,6 +14,8 @@
 
 [5. Repetição - For](./Modulo01/exercicio/exercicio5.php)
 
+[6. Array Multidimensional](./Modulo01/exercicio/exercicio6.php)
+
 ## Autor
 
 [@Elivandro 🔥😀🚀](https://www.github.com/Elivandro/)
