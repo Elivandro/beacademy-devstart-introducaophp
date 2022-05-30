@@ -84,13 +84,13 @@
 
                             $media = $total / 4;
 
-                                // number_format($media, 1, '.', '');
+                            $mediaFormatada = number_format($media, 1, '.', '');
 
                         echo "<tr>
                                 <td>{$aluno['nome']}</td>
                                 <td>{$aluno['email']}</td>
                                 <td>{$aluno['telefone']}</td>
-                                <td>{$media}</td>
+                                <td>{$mediaFormatada}</td>
                             </tr>";
 
 
