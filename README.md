@@ -14,7 +14,9 @@
 
 [5. Repetição - For](./Modulo01/exercicio/exercicio5.php)
 
-[6. Array Multidimensional](./Modulo01/exercicio/exercicio6.php)
+[6. Alunos - Array Multidimensional](./Modulo01/exercicio/exercicio6.php)
+
+[7. Produtos - Array Multidimensional ](./Modulo01/exercicio/exercicio7.php)
 
 ## Autor
 
