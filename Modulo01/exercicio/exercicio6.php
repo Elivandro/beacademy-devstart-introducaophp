@@ -4,10 +4,10 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Exercicio 2 - tabela HTML com PHP</title>
+        <title>Exercicio 6 - tabela de médias HTML com PHP</title>
         <meta name="author" content="Elivandro Silva"/>
-        <meta name="keywords" content="php, tabela, produtos, html"/>
-        <meta name="description" content="Tabela de produto simples com html e php"/>
+        <meta name="keywords" content="php, tabela, alunos, html"/>
+        <meta name="description" content="Tabela de média de alunos com html e php"/>
         <!-- CSS only -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     </head>
@@ -71,7 +71,6 @@
         </thead>
         <tbody>
                 <?php
-
                     foreach($alunos as $aluno){
 
                             $index = 0;
@@ -83,7 +82,6 @@
                             }
 
                             $media = $total / 4;
-
                             $mediaFormatada = number_format($media, 1, '.', '');
 
                         echo "<tr>
@@ -92,10 +90,7 @@
                                 <td>{$aluno['telefone']}</td>
                                 <td>{$mediaFormatada}</td>
                             </tr>";
-
-
                     }
-
                 ?>
             </tr>
         </tbody>
