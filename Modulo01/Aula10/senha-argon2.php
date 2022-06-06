@@ -1,9 +1,9 @@
 <?php
 
-    $senha = "123456";
+    $senha = "DevStart!";
+
     $code = password_hash($senha, PASSWORD_ARGON2I);
 
+    echo $code.PHP_EOL;
 
-    echo password_hash($senha, PASSWORD_ARGON2I).PHP_EOL;
-
-    echo $code;
+    var_dump(password_verify($senha, $code));
